@@ -1,4 +1,4 @@
-package functional_interface.examples;
+package functional_interface.ExamplesStreamAPI;
 
 import java.util.List;
 import java.util.function.Supplier;
